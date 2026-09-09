@@ -1,5 +1,13 @@
 # First Map Template Repository
 
+## Sacred Heart of Jesus school map
+
+Open `sacred-heart-map.ipynb` in your Codespace and select **Run All** using the Python environment at `/opt/conda/bin/python`. It searches OpenStreetMap for Sacred Heart of Jesus Catholic School in Boulder, filters out other nearby schools, and exports an interactive map to `sacred-heart.html`.
+
+The original `first-map.ipynb` and `haskell.html` remain available for the Haskell campus example. Stop the Codespace when you finish.
+
+## Original template
+
 A template repository for getting started with map-making in GitHub Codespaces.
 
 To use:
